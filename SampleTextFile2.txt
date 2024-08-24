@@ -5,3 +5,5 @@ making additional codes on textfile 2
 to test git reset and revert
 
 adding code for commit sampling
+
+adding more codes
