@@ -1,1 +1,5 @@
 sample textfile 3 code
+
+putting additional codes to textfile 3
+
+to test git reset and revert 
