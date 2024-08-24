@@ -3,3 +3,5 @@ sample textfile 1 code
 adding more codes to textfile 1
 
 to test git reset and revert
+
+adding codes for commit sampling
